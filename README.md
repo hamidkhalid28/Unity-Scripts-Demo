@@ -1,2 +1,2 @@
-# DinoRage
-Unity Game Development Demo
+# Unity Scripts Demo
+
